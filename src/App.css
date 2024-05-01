@@ -1,0 +1,116 @@
+.App {
+  text-align: center;
+  background-color: beige;
+  color: antiquewhite;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+.App-header {
+  background-color: beige;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  }
+
+.App-link {
+  color: #61dafb;
+}
+/*
+.form {
+  background-color: "black";
+}
+
+.text {
+  color: "white";
+}
+
+.h1 {
+  font-family: "Lucida Bright";
+  color: "white";
+}
+
+.label {
+    color: "white";
+    font-size: "20px";
+    margin-bottom: "5px";
+    font-weight: "bold";
+    font-family:  "Calibri",
+}
+
+.input {
+  background-color: "white";
+  border: "none";
+  border-radius: "5px";
+ font-size: "16px";
+  font-family: "Calibri";
+  padding : "10px";
+  margin-bottom:  "20px";
+  width: "30%";
+}
+
+.textarea {
+  background-color: "white";
+  border: "none";
+  border-radius: "5px";
+  font-size: "16px";
+  font-family: "Calibri";
+  padding: "10px";
+  margin-bottom: "20px";
+  width: "30%";
+}
+
+.num{
+ background-color: "white";
+ border: "none";
+ border-radius: "5px";
+ font-size: "16px";
+ font-family: "Calibri";
+ padding: "10px";
+ margin-bottom: "20px";
+ width: "21%";
+}
+
+.date {
+  background-color: "white";
+  border: "none";
+  border-radius: "5px";
+  font-size: "16px";
+  font-family: "Calibri";
+  padding: "10px";
+  margin-bottom: "20px";
+  width: "23.5%";
+ }
+
+
+ .link {
+  background-color: "white";
+  border: "none";
+  border-radius: "5px";
+  font-size: "16px";
+  font-family: "Calibri";
+  padding: "10px";
+  margin-bottom: "20px";
+  width: "18.5%";
+ }
+
+
+ .button {
+  background-color: "#2C74B3";
+  border: "none";
+  border-radius: "5px";
+  color: "white";
+  cursor: "pointer";
+  font-size: "18px";
+  font-family: "Calibri";
+  padding: "10px 20px";
+ }  
+
+*/

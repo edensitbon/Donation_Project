@@ -1,0 +1,62 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: beige;
+  padding-bottom: 50px;
+}
+.heading-text {
+  color: #f6ae06;
+}
+.campaigns-form {
+  padding: 30px;
+  display: flex;
+  background-color: #d3b777;
+  border-radius: 25px;
+}
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.inputs {
+  border: 2px solid #f6ae06;
+  height: 40px;
+  width: 250px;
+  padding-left: 8px;
+  font-size: 14px;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+.description {
+  width: 300px;
+  height: 150px;
+  margin-top: 12px;
+  margin-left: 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  padding-left: 8px;
+  border: 2px solid #f6ae06;
+}
+.submit-btn {
+  border: none;
+  border-radius: 8px;
+  font-size: 22px;
+  display: block;
+  padding: 8px 15px;
+  color: #f6ae06;
+  background-color: #f6ae06;
+  margin-top: 10px;
+}
+
+.wallet{
+  color: black;
+}

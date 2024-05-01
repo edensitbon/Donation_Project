@@ -1,0 +1,40 @@
+.campaings-page {
+  padding-bottom: 50px;    
+  background-color: beige; 
+  padding-top: 50px; 
+  
+  
+}
+.title {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #f6ae06;
+  font-size: 40px;
+
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+.grid-container {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 25px;
+  
+
+}
+
+.cards {
+  color: black;
+
+}
+
